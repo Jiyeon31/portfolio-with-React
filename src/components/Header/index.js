@@ -1,7 +1,7 @@
 import React from 'react';
 import profileImage from "../../assets/profile/JiyeonYou.jpg";
 
-function About() {
+function Header() {
   return (
     <section>
       <h1 id="about">About me</h1>
@@ -10,4 +10,4 @@ function About() {
   );
 }
 
-export default About;
+export default Header;
