@@ -1,4 +1,4 @@
-# Portfolio with React 
+  # Portfolio with React 
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
   
   ## Description 
@@ -45,16 +45,12 @@
   
   ## Table of Contents
   * [Installation](#installation)
-  * [Usage](#usage)
   * [License](#license)
   
   ## Installation
   
-  I WANT to view a potential employee's deployed React portfolio of work samples
-  
-  ## Usage 
-  
-  SO THAT I can assess whether they're a good candidate for an open position
+  You can simply commit npm install and npm start commands.
+
     
   ## License
     
