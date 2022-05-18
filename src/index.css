@@ -15,7 +15,9 @@ main {
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
   --spacing-five: calc(2.5rem);
-
+  --mint-green: #77aca2;
+  --light-green: #9dbebb;
+  --sea-green: #468189;
 }
 
 * {
@@ -34,10 +36,9 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: .1em;
-  background: var(--dark);
+  background: var(--light-green);
   color: var(--light);
   font-family: 'Poiret One', cursive;
-
 }
 
 h1,
@@ -54,6 +55,7 @@ h6 {
 
 h1 {
   font-size: 2.25rem;
+  font-family: 'Poiret One', cursive;
 }
 
 h2 {
@@ -85,6 +87,7 @@ a {
   color: var(--tertiary);
   text-decoration: none;
   font-weight: bold;
+  font-family: 'Poiret One', cursive;
 }
 
 a:hover {
@@ -92,7 +95,7 @@ a:hover {
 }
 
 header {
-  background: var(--dark);
+  background: var(--sea-green);
 }
 
 header a {
@@ -148,6 +151,7 @@ input:focus {
 
 li {
   list-style: none;
+  color: white;
 }
 
 nav a:hover {
@@ -240,6 +244,8 @@ textarea {
   height: 300px;
   margin-bottom: 50px;
   cursor: pointer;
+  border-radius: 20%;
+  border-style: double;
 }
 
 .modalBackdrop {
@@ -302,6 +308,8 @@ a {
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
+  display: block;
+  margin: 50px;
 }
 
 .fa:hover {
@@ -321,4 +329,21 @@ a {
 .fa-instagram {
   background: #125688;
   color: white;
+}
+
+.jiyeon {
+  border-radius: 50%;
+}
+
+.sociallinks {
+  text-align: center;
+}
+
+.name {
+  background-color: #77aca2;
+  border-style: solid;
+}
+
+.round {
+  border-radius: 50%;
 }
