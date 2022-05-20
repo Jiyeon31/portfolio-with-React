@@ -46,6 +46,8 @@
   ## Table of Contents
   * [Installation](#installation)
   * [License](#license)
+  * [Screenshots](#screenshots)
+  * [Deployment](#deployment)
   
   ## Installation
   
@@ -56,6 +58,11 @@
     
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
   
+  ## Screenshots
+  
+  ## Deployment
+  
+  portfolio-with-react.herokuapp.com
   
   ---
   
