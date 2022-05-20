@@ -60,6 +60,12 @@
   
   ## Screenshots
   
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/assets/screenshots/main.JPG)
+  ![alt text](https://github.com/Jiyeon31/weatherfortraveler/blob/main/assets/screenshots/about-me.JPG)
+  ![alt text](https://github.com/Jiyeon31/weatherfortraveler/blob/main/assets/screenshots/contact.JPG)
+   ![alt text](https://github.com/Jiyeon31/weatherfortraveler/blob/main/assets/screenshots/portfolio.JPG)
+  ![alt text](https://github.com/Jiyeon31/weatherfortraveler/blob/main/assets/screenshots/resume.JPG)
+  
   ## Deployment
   
   https://portfolio-with-react.herokuapp.com
