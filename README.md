@@ -62,7 +62,7 @@
   
   ## Deployment
   
-  portfolio-with-react.herokuapp.com
+  https://portfolio-with-react.herokuapp.com
   
   ---
   
@@ -71,7 +71,7 @@
   
   For any questions, please contact me with the information below:
  
-  GitHub: (https://github.com/Jiyeon31)<br />
+  GitHub: https://github.com/Jiyeon31<br />
 
   
   Email: zhdzhddlx@gmail.com
