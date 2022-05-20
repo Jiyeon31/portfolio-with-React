@@ -60,11 +60,11 @@
   
   ## Screenshots
   
-  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/main.JPG)
-  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/about-me.JPG)
-  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/contact.JPG)
-  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/portfolio.JPG)
-  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/resume.JPG)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/main.jpg)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/about-me.jpg)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/contact.jpg)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/portfolio.jpg)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/resume.jpg)
   
   ## Deployment
   
