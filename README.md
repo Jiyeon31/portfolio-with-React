@@ -61,10 +61,10 @@
   ## Screenshots
   
   ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/main.JPG)
-  ![alt text](https://github.com/Jiyeon31/weatherfortraveler/blob/main/src/assets/screenshots/about-me.JPG)
-  ![alt text](https://github.com/Jiyeon31/weatherfortraveler/blob/main/src/assets/screenshots/contact.JPG)
-   ![alt text](https://github.com/Jiyeon31/weatherfortraveler/blob/main/src/assets/screenshots/portfolio.JPG)
-  ![alt text](https://github.com/Jiyeon31/weatherfortraveler/blob/main/src/assets/screenshots/resume.JPG)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/about-me.JPG)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/contact.JPG)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/portfolio.JPG)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/resume.JPG)
   
   ## Deployment
   
