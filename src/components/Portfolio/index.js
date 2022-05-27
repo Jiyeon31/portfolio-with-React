@@ -106,6 +106,11 @@ const Portfolio = ({ category }) => {
           name: 'Social Network API',
           category: 'portfolio',
           description: 'JAVASCRIPT/NODE JS/MYSQL/MONGODB/REST API - https://github.com/Jiyeon31/SNSapi',
+        },
+        {
+          name: 'Group Project3',
+          category: 'portfolio',
+          description: 'MERN/GRAPHQL/HEROKU/APOLLO/JWT/NODEMON - https://your-coffee-tracker.herokuapp.com',
         }
       ]);
 
