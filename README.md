@@ -60,6 +60,12 @@
   
   ## Screenshots
   
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/main.jpg)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/about-me.jpg)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/contact.jpg)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/portfolio.jpg)
+  ![alt text](https://github.com/Jiyeon31/portfolio-with-react/blob/main/src/assets/screenshots/resume.jpg)
+  
   ## Deployment
   
   https://portfolio-with-react.herokuapp.com
